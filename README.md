@@ -3,7 +3,7 @@
 # Hi there!! I`m Gabriel 👋 | Hola!!  Soy Gabriel 👋 
 
 <h3>Sobre m&iacute;</h3>
-<p>Apasionado desarrollador de software en formaci&oacute;n, con un fuerte inter&eacute;s en el desarrollo web y la programaci&oacute;n. Estoy comprometido en aprender y aplicar nuevas tecnolog&iacute;as para resolver problemas reales y crear aplicaciones &uacute;tiles e innovadoras.</p>
+<p>Apasionado desarrollador de software en formaci&oacute;n, con un fuerte inter&eacute;s en el desarrollo móvil y la programaci&oacute;n. Estoy comprometido en aprender y aplicar nuevas tecnolog&iacute;as para resolver problemas reales y crear aplicaciones &uacute;tiles e innovadoras.</p>
 <h3>Habilidades</h3>
 <ul>
 <li><strong>Lenguajes de programaci&oacute;n:</strong> C, C#, Java, Kotlin, 
