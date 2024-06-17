@@ -2,9 +2,54 @@
 
 # Hi there!! I`m Gabriel 👋 | Hola!!  Soy Gabriel 👋 
 
-<h3>Sobre m&iacute;</h3>
+<h2>About me</h2>
+<p>Passionate software developer in training, with a strong interest in mobile development and programming. I am committed to learning and applying new technologies to solve real problems and create useful and innovative applications</p>
+<h2>Skills</h2>
+<ul>
+<li><strong>Programming languages:</strong> C, C#, Java, Kotlin, 
+<p>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="" width="40" height="40" />
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" alt="" width="40" height="40" />  
+</p>
+</li>
+<li><strong>Web development:</strong> HTML, CSS, Node.js</li>
+  <p>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="" width="40" height="40" />
+  </p>
+<li><strong>Database:</strong> MySQL, PostgreSQL</li>
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="" width="40" height="40" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="" width="40" height="40" />
+</p>
+  
+<!--<li><strong>Metodolog&iacute;as &aacute;giles:</strong> Conocimiento b&aacute;sico de Scrum y Kanban</li> -->
+<li><strong>Tools and technologies:</strong> Git</li>
+<p>
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="" width="40" height="40" />
+<!--<img src="" alt="" width="40" height="40" /> -->
+</p>
+</ul>
+
+<h2>Professional goals</h2>
+<p>Mi objetivo es seguir desarrollando mis habilidades y conocimientos en programaci&oacute;n, con el fin de contribuir a proyectos desafiantes y significativos. Estoy emocionado por la oportunidad de colaborar con otros desarrolladores y aprender de su experiencia, mientras aporto mis propias ideas y entusiasmo al equipo.</p>
+<h2>Con&eacute;ctate conmigo</h2>
+<ul>
+<li><strong>GitHub:</strong> gsoteldo</li>
+<li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/gabriel-alejandro-soteldo-rodr%C3%ADguez-119263165/">Gabriel Soteldo</a></li>
+<li><strong>Email:</strong> gsoteldor@gmail.com</li>
+</ul>
+
+
+
+
+
+<h2>Sobre m&iacute;</h2>
 <p>Apasionado desarrollador de software en formaci&oacute;n, con un fuerte inter&eacute;s en el desarrollo móvil y la programaci&oacute;n. Estoy comprometido en aprender y aplicar nuevas tecnolog&iacute;as para resolver problemas reales y crear aplicaciones &uacute;tiles e innovadoras.</p>
-<h3>Habilidades</h3>
+<h2>Habilidades</h2>
 <ul>
 <li><strong>Lenguajes de programaci&oacute;n:</strong> C, C#, Java, Kotlin, 
 <p>
@@ -50,9 +95,9 @@
 </ul>
 </li>
 </ul>-->
-<h3>Objetivos profesionales</h3>
+<h2>Objetivos profesionales</h2>
 <p>Mi objetivo es seguir desarrollando mis habilidades y conocimientos en programaci&oacute;n, con el fin de contribuir a proyectos desafiantes y significativos. Estoy emocionado por la oportunidad de colaborar con otros desarrolladores y aprender de su experiencia, mientras aporto mis propias ideas y entusiasmo al equipo.</p>
-<h3>Con&eacute;ctate conmigo</h3>
+<h2>Con&eacute;ctate conmigo</h2>
 <ul>
 <li><strong>GitHub:</strong> gsoteldo</li>
 <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/gabriel-alejandro-soteldo-rodr%C3%ADguez-119263165/">Gabriel Soteldo</a></li>
