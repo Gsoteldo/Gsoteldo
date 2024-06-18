@@ -6,7 +6,7 @@
 <p>Passionate software developer in training, with a strong interest in mobile development and programming. I am committed to learning and applying new technologies to solve real problems and create useful and innovative applications</p>
 <h2>Skills</h2>
 <ul>
-<li><strong>Programming languages:</strong> C, C#, Java, Kotlin, 
+<li><strong>Programming languages:</strong> C, C#, Java, Kotlin
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="" width="40" height="40" />
@@ -35,10 +35,10 @@
 </ul>
 
 <h2>Professional goals</h2>
-<p>Mi objetivo es seguir desarrollando mis habilidades y conocimientos en programaci&oacute;n, con el fin de contribuir a proyectos desafiantes y significativos. Estoy emocionado por la oportunidad de colaborar con otros desarrolladores y aprender de su experiencia, mientras aporto mis propias ideas y entusiasmo al equipo.</p>
-<h2>Con&eacute;ctate conmigo</h2>
+<p>My goal is to further develop my programming skills and knowledge in order to contribute to challenging and meaningful projects. I am excited for the opportunity to collaborate with other developers and learn from their experience, while bringing my own ideas and enthusiasm to the team.</p>
+<h2>Contact me</h2>
 <ul>
-<li><strong>GitHub:</strong> gsoteldo</li>
+<li><strong>GitHub:</strong> Gsoteldo</li>
 <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/gabriel-alejandro-soteldo-rodr%C3%ADguez-119263165/">Gabriel Soteldo</a></li>
 <li><strong>Email:</strong> gsoteldor@gmail.com</li>
 </ul>
@@ -51,7 +51,7 @@
 <p>Apasionado desarrollador de software en formaci&oacute;n, con un fuerte inter&eacute;s en el desarrollo móvil y la programaci&oacute;n. Estoy comprometido en aprender y aplicar nuevas tecnolog&iacute;as para resolver problemas reales y crear aplicaciones &uacute;tiles e innovadoras.</p>
 <h2>Habilidades</h2>
 <ul>
-<li><strong>Lenguajes de programaci&oacute;n:</strong> C, C#, Java, Kotlin, 
+<li><strong>Lenguajes de programaci&oacute;n:</strong> C, C#, Java, Kotlin
 <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="" width="40" height="40" />
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="" width="40" height="40" />
