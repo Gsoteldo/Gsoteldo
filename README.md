@@ -43,7 +43,8 @@
 <li><strong>Email:</strong> gsoteldor@gmail.com</li>
 </ul>
 
-
+<details>
+<summary>🇪🇸 Haz clic aquí para ver la versión en español</summary>
 
 
 
@@ -103,3 +104,5 @@
 <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/gabriel-alejandro-soteldo-rodr%C3%ADguez-119263165/">Gabriel Soteldo</a></li>
 <li><strong>Email:</strong> gsoteldor@gmail.com</li>
 </ul>
+
+</details>
