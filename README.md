@@ -1,108 +1,100 @@
+
+<div align="center">
 <p><img style="display: block; margin-left: auto; margin-right: auto;" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHlxNmQyYjRhc20zNmZ3dnpqNTN0cjFrdGw3amFjaWhocmF2MnFmMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif" alt="" /></p>
 
-# Hi there!! I`m Gabriel 👋 | Hola!!  Soy Gabriel 👋 
+# Hola, soy Gabriel Soteldo 👋
 
-<h2>About me</h2>
-<p>Passionate software developer in training, with a strong interest in mobile development and programming. I am committed to learning and applying new technologies to solve real problems and create useful and innovative applications</p>
-<h2>Skills</h2>
-<ul>
-<li><strong>Programming languages:</strong> C, C#, Java, Kotlin
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" alt="" width="40" height="40" />  
-</p>
-</li>
-<li><strong>Web development:</strong> HTML, CSS, Node.js</li>
-  <p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="" width="40" height="40" />
-  </p>
-<li><strong>Database:</strong> MySQL, PostgreSQL</li>
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="" width="40" height="40" />
-</p>
-  
-<!--<li><strong>Metodolog&iacute;as &aacute;giles:</strong> Conocimiento b&aacute;sico de Scrum y Kanban</li> -->
-<li><strong>Tools and technologies:</strong> Git</li>
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="" width="40" height="40" />
-<!--<img src="" alt="" width="40" height="40" /> -->
-</p>
-</ul>
+### Junior Frontend & Fullstack Developer · DevOps Enthusiast · 42 Madrid
 
-<h2>Professional goals</h2>
-<p>My goal is to further develop my programming skills and knowledge in order to contribute to challenging and meaningful projects. I am excited for the opportunity to collaborate with other developers and learn from their experience, while bringing my own ideas and enthusiasm to the team.</p>
-<h2>Contact me</h2>
-<ul>
-<li><strong>GitHub:</strong> Gsoteldo</li>
-<li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/gabriel-alejandro-soteldo-rodr%C3%ADguez-119263165/">Gabriel Soteldo</a></li>
-<li><strong>Email:</strong> gsoteldor@gmail.com</li>
-</ul>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gsoteldor)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gsoteldor@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://serenpia.vercel.app)
 
-<details>
-<summary>🇪🇸 Haz clic aquí para ver la versión en español</summary>
+</div>
+
+---
 
 
+## 🚀 Sobre mí
 
-<h2>Sobre m&iacute;</h2>
-<p>Apasionado desarrollador de software en formaci&oacute;n, con un fuerte inter&eacute;s en el desarrollo móvil y la programaci&oacute;n. Estoy comprometido en aprender y aplicar nuevas tecnolog&iacute;as para resolver problemas reales y crear aplicaciones &uacute;tiles e innovadoras.</p>
-<h2>Habilidades</h2>
-<ul>
-<li><strong>Lenguajes de programaci&oacute;n:</strong> C, C#, Java, Kotlin
-<p>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" alt="" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" alt="" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain.svg" alt="" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-plain.svg" alt="" width="40" height="40" />  
-</p>
-</li>
-<li><strong>Desarrollo web:</strong> HTML, CSS, Node.js</li>
-  <p>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" alt="" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="" width="40" height="40" />
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain-wordmark.svg" alt="" width="40" height="40" />
-  </p>
-<li><strong>Bases de datos:</strong> MySQL, PostgreSQL</li>
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" alt="" width="40" height="40" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" alt="" width="40" height="40" />
-</p>
-  
-<!--<li><strong>Metodolog&iacute;as &aacute;giles:</strong> Conocimiento b&aacute;sico de Scrum y Kanban</li> -->
-<li><strong>Herramientas y tecnolog&iacute;as:</strong> Git</li>
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" alt="" width="40" height="40" />
-<!--<img src="" alt="" width="40" height="40" /> -->
-</p>
-</ul>
-<!--<h3>Proyectos personales</h3>
-<ul>
-<li><strong>[Nombre del Proyecto 1]:</strong> Desarrollo de un blog personal utilizando HTML, CSS y JavaScript, que incluye una interfaz de usuario intuitiva y funcionalidades b&aacute;sicas de administraci&oacute;n de contenido.</li>
-<li><strong>[Nombre del Proyecto 2]:</strong> Creaci&oacute;n de una aplicaci&oacute;n de lista de tareas con React, permitiendo a los usuarios a&ntilde;adir, editar y eliminar tareas, con almacenamiento en el navegador.</li>
-<li><strong>[Nombre del Proyecto 3]:</strong> Implementaci&oacute;n de un peque&ntilde;o juego en Python utilizando Pygame, para practicar l&oacute;gica de programaci&oacute;n y conceptos de desarrollo de juegos.</li>
-</ul>
-<h3>Educaci&oacute;n y formaci&oacute;n</h3>
-<ul>
-<li><strong>[Nombre de la Universidad/Instituto]:</strong> [Nombre del Programa o T&iacute;tulo], [Fechas]</li>
-<li><strong>Cursos y certificaciones:</strong>
-<ul>
-<li>[Curso o Certificaci&oacute;n 1]</li>
-<li>[Curso o Certificaci&oacute;n 2]</li>
-<li>[Curso o Certificaci&oacute;n 3]</li>
-</ul>
-</li>
-</ul>-->
-<h2>Objetivos profesionales</h2>
-<p>Mi objetivo es seguir desarrollando mis habilidades y conocimientos en programaci&oacute;n, con el fin de contribuir a proyectos desafiantes y significativos. Estoy emocionado por la oportunidad de colaborar con otros desarrolladores y aprender de su experiencia, mientras aporto mis propias ideas y entusiasmo al equipo.</p>
-<h2>Con&eacute;ctate conmigo</h2>
-<ul>
-<li><strong>GitHub:</strong> gsoteldo</li>
-<li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/gabriel-alejandro-soteldo-rodr%C3%ADguez-119263165/">Gabriel Soteldo</a></li>
-<li><strong>Email:</strong> gsoteldor@gmail.com</li>
-</ul>
+Desarrollador con formación intensiva en **42 Madrid Fundación Telefónica** y especialización en **Desarrollo de Aplicaciones Multiplataforma**. Me muevo cómodo tanto en frontend moderno como en administración de sistemas Linux y contenedores Docker.
 
-</details>
+- 🔭 Actualmente trabajando en mi **homelab DevOps** con servicios contenerizados
+- 🌱 Profundizando en **TypeScript avanzado** y **CI/CD pipelines**
+- 💬 Pregúntame sobre **Next.js, Docker, Linux o C/C++**
+- 📫 Contacto: **gsoteldor@gmail.com**
+- 📍 Madrid, España · Open to Work 🟢
+
+---
+
+## 🛠️ Stack técnico
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+### Backend & Bases de datos
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+### DevOps & Sistemas
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![VMware](https://img.shields.io/badge/VMware-607078?style=flat-square&logo=vmware&logoColor=white)
+
+### Lenguajes de sistema
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### Herramientas
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📌 Proyectos destacados
+
+### 🌐 [Serenpia](https://github.com/Gsoteldo/serenpia) — Fullstack Web App
+Landing page para productora audiovisual en producción real.
+`Next.js 15` `TailwindCSS` `Supabase` `Vercel` `SEO`
+
+### 🐳 [Inception](https://github.com/Gsoteldo/Cursus-42) — Infraestructura Docker
+Orquestación de servicios contenerizados simulando entorno productivo.
+`Docker` `Docker Compose` `Nginx` `WordPress` `MariaDB` `SSL`
+
+### 🖥️ [Born2beRoot](https://github.com/Gsoteldo/Cursus-42) — Linux Server Hardening
+Servidor Debian configurado desde cero sin interfaz gráfica.
+`Linux` `Debian` `SSH` `Firewall` `Seguridad`
+
+### ⚙️ [Minishell](https://github.com/Gsoteldo/Cursus-42) — Shell UNIX en C
+Implementación de shell con pipes, procesos, señales y redirecciones.
+`C` `UNIX` `Procesos` `Sistemas Operativos`
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gsoteldo&show_icons=true&theme=dark&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gsoteldo&layout=compact&theme=dark&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*"First, solve the problem. Then, write the code." – John Johnson*
+
+</div>
