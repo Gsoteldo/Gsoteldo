@@ -4,26 +4,38 @@
 
 # Hola, soy Gabriel Soteldo 👋
 
-### Junior Frontend & Fullstack Developer · DevOps Enthusiast · 42 Madrid
+### Desarrollador Fullstack orientado a sistemas · DevOps · Infraestructura · 42 Madrid
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gsoteldor)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gsoteldor@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://serenpia.vercel.app)
+<!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://serenpia.vercel.app) -->
 
 </div>
 
 ---
 
+## 🧠 Quién soy
 
-## 🚀 Sobre mí
 
-Desarrollador con formación intensiva en **42 Madrid Fundación Telefónica** y especialización en **Desarrollo de Aplicaciones Multiplataforma**. Me muevo cómodo tanto en frontend moderno como en administración de sistemas Linux y contenedores Docker.
+Desarrollador enfocado en construir y entender sistemas completos.
 
-- 🔭 Actualmente trabajando en mi **homelab DevOps** con servicios contenerizados
-- 🌱 Profundizando en **TypeScript avanzado** y **CI/CD pipelines**
-- 💬 Pregúntame sobre **Next.js, Docker, Linux o C/C++**
-- 📫 Contacto: **gsoteldor@gmail.com**
-- 📍 Madrid, España · Open to Work 🟢
+Trabajo en la intersección entre:
+- aplicaciones fullstack
+- infraestructura y despliegue
+- sistemas bajo carga
+- comportamiento en producción
+
+Me interesa cómo se comportan los sistemas cuando dejan de ser teóricos.
+
+---
+## ⚙️ Enfoque técnico
+
+- Sistemas bajo concurrencia y carga
+- Arquitecturas fullstack orientadas a backend
+- Infraestructura con Docker y Linux
+- Aplicaciones en tiempo real
+- Debugging en entornos de producción
+- CI/CD y entornos reproducibles
 
 ---
 
@@ -35,6 +47,8 @@ Desarrollador con formación intensiva en **42 Madrid Fundación Telefónica** y
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
 
 ### Backend & Bases de datos
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -52,6 +66,7 @@ Desarrollador con formación intensiva en **42 Madrid Fundación Telefónica** y
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
 
 ### Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -59,25 +74,72 @@ Desarrollador con formación intensiva en **42 Madrid Fundación Telefónica** y
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
+## 🚀 Proyectos destacados
+
+### 🐳 [Inception](https://github.com/Gsoteldo/inception42) — Infraestructura de sistemas
+Laboratorio de experimentación de despliegue
+
+- Arquitectura multi-servicio con Docker Compose
+- Nginx como reverse proxy
+- SSL y red de servicios aislados
+- Persistencia de datos
+
+👉 Infraestructura, despliegue y experimentación de sistemas
+
 ---
 
-## 📌 Proyectos destacados
+### ⚙️ [Minishell](https://github.com/Gsoteldo/minishell-cursus) — Sistemas operativos
+Shell UNIX desarrollada en C desde cero.
 
-### 🌐 [Serenpia](https://github.com/Gsoteldo/serenpia) — Fullstack Web App
-Landing page para productora audiovisual en producción real.
-`Next.js 15` `TailwindCSS` `Supabase` `Vercel` `SEO`
+- Gestión de procesos
+- Pipes y redirecciones
+- Señales y ejecución de comandos
+- Interacción directa con UNIX
 
-### 🐳 [Inception](https://github.com/Gsoteldo/Cursus-42) — Infraestructura Docker
-Orquestación de servicios contenerizados simulando entorno productivo.
-`Docker` `Docker Compose` `Nginx` `WordPress` `MariaDB` `SSL`
+👉 Procesos, ejecución y comportamiento del sistema operativo
 
-### 🖥️ [Born2beRoot](https://github.com/Gsoteldo/Cursus-42) — Linux Server Hardening
-Servidor Debian configurado desde cero sin interfaz gráfica.
-`Linux` `Debian` `SSH` `Firewall` `Seguridad`
+---
 
-### ⚙️ [Minishell](https://github.com/Gsoteldo/Cursus-42) — Shell UNIX en C
-Implementación de shell con pipes, procesos, señales y redirecciones.
-`C` `UNIX` `Procesos` `Sistemas Operativos`
+### 🌐 [gomarked.app](https://gomarked.app) — Sistema fullstack en tiempo real
+
+Sistema web multijugador con sincronización de estado entre clientes.
+
+- Next.js + Supabase + PostgreSQL
+- Realtime basado en eventos de base de datos
+- Sincronización de estado entre clientes
+- Gestión de concurrencia y conflictos de actualización
+
+👉 Sistemas en tiempo real y concurrencia
+(Código privado bajo solicitud)
+
+---
+
+## 🧪 Otros proyectos
+
+### 🌐 [Serenpia](https://serenpia.com) — Plataforma web en producción
+
+Sistema web modular con despliegue en entorno real.
+
+- Arquitectura modular en Next.js
+- Backend con Supabase
+- Optimización de rendimiento y SEO
+- Deploy con Docker
+
+👉 Arquitectura de aplicaciones web en producción
+
+---
+
+### 🛠️ Tusmejoresfiestas — Sistema en producción real
+
+Sistema en entorno productivo con uso real por clientes.
+
+- Personalización sobre Shopify en entorno productivo
+- Sistema en uso por clientes reales
+- Mantenimiento continuo y evolución del sistema
+- Cambios en entorno activo
+
+👉 Sistemas en producción y mantenimiento continuo
+
 
 ---
 
@@ -85,11 +147,22 @@ Implementación de shell con pipes, procesos, señales y redirecciones.
 
 <div align="center">
 
-![Gabriel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gsoteldo&show_icons=true&theme=dark&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gsoteldo&layout=compact&theme=dark&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Gsoteldo&show_icons=true&theme=dark&hide_border=true)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gsoteldo&layout=compact&theme=dark&hide_border=true)
 
 </div>
+
+---
+## 🎯 Filosofía
+
+> Un sistema no se entiende hasta que falla bajo condiciones reales.
+
+Me enfoco en:
+- sistemas observables
+- fallos predecibles
+- arquitectura simple pero robusta
+- debugging por encima de suposiciones
+- construir cosas que sobreviven al uso real
 
 ---
 
